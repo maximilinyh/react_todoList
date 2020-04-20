@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4610686-090f-469f-9a9f-36bacab0c606" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aT7fYND4LqR7qowqz01VS4SkNQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-pay-form" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4610686-090f-469f-9a9f-36bacab0c606" name="Default Changelist" comment="" />
+      <created>1586747833173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586747833173</updated>
+      <workItem from="1586747834588" duration="13513000" />
+      <workItem from="1586788438470" duration="13195000" />
+      <workItem from="1586845451524" duration="11902000" />
+      <workItem from="1586920436511" duration="14414000" />
+      <workItem from="1586962812081" duration="8456000" />
+      <workItem from="1586971617395" duration="13000" />
+      <workItem from="1587006700301" duration="5008000" />
+      <workItem from="1587104539209" duration="600000" />
+      <workItem from="1587108875406" duration="10862000" />
+      <workItem from="1587131651762" duration="5650000" />
+      <workItem from="1587269295814" duration="5422000" />
+      <workItem from="1587292067720" duration="6490000" />
+      <workItem from="1587305357762" duration="6165000" />
+      <workItem from="1587348845001" duration="795000" />
+      <workItem from="1587349900251" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="731" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587112117473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587112117473" />
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587308744852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587308744852" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1587349940012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587349940012" />
+    <state x="616" y="244" key="run.anything.popup" timestamp="1587309021699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587309021699" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586966067562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586966067562" />
+  </component>
+</project>
