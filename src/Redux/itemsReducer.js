@@ -7,11 +7,11 @@ const initialState = {
 const itemsReducer = (state = initialState, action) => {
     switch (action.type) {
         case ADD_ITEMS:
-            return {items: state.items.concat(action.payload)}
+            return {...state, items: state.items.concat(action.payload)}
         case UPDATE_ITEMS:
-            return {items: action.payload}
+            return {...state, items: action.payload}
         case REMOVE_ITEMS:
-            return {items: []}
+            return {...state, items: []}
         default:
             return state
     }
